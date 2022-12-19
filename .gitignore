@@ -1,3 +1,7 @@
+
+./mask_env/Lib # requirements.txt orqali o'rnatiladigan kutubxonalar
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
